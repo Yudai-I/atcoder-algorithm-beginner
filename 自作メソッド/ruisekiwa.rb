@@ -9,5 +9,5 @@ def calc_sum(nums, n, m)
     end
     
     ans = sums[m+1] - sums[n]
-    print ans
+    return ans
 end
