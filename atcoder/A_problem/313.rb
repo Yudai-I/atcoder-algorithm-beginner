@@ -7,3 +7,4 @@ if first_programer == p.max and p.count(p.max) == 1
 else
   print (p.max - first_programer + 1)
 end
+
